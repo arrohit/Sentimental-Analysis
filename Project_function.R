@@ -5,7 +5,7 @@ library(stringr)
 library(tibble)
 library(RSQLite)
 library(sentimentr)
-#In function
+#Reviews data function
 
 product<-function(keyword,page)
 {
